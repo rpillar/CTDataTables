@@ -1,0 +1,3 @@
+code-critics
+ruleUtilityMethodsRuleV1FalsePositive
+	^ #(#(#(#RGMethodDefinition #(#DataTablesUtils #scriptFormatFunction: #false)) #'2021-10-28T20:03:38.84606+01:00') #(#(#RGMethodDefinition #(#DataTablesObject #columns: #false)) #'2021-11-07T15:08:08.803144+00:00') #(#(#RGMethodDefinition #(#DataTablesData #data: #false)) #'2021-11-09T18:36:42.912476+00:00') #(#(#RGMethodDefinition #(#DataTablesObject #data: #false)) #'2021-11-09T18:42:12.513129+00:00') #(#(#RGMethodDefinition #(#DataTablesColumns #title: #false)) #'2021-11-13T23:29:18.246259+00:00') #(#(#RGMethodDefinition #(#DataTablesUtils #scriptFormatFunction:with: #false)) #'2021-11-18T21:15:57.813722+00:00') #(#(#RGMethodDefinition #(#DataTablesColumns #visible: #false)) #'2021-12-12T19:53:51.841619+00:00') )

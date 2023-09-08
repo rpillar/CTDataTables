@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DataTablesComponent",
+	"category" : "CT-DataTables",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DataTablesUtils",
+	"type" : "normal"
+}

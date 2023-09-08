@@ -1,0 +1,12 @@
+{
+	"instance" : { },
+	"class" : {
+		"ruleUnclassifiedMethodsRuleV1FalsePositive" : "RichardPillar 11/7/2021 15:08",
+		"ruleNoClassCommentRuleV1FalsePositive" : "RichardPillar 10/24/2021 13:43",
+		"ruleUnoptimizedToDoRuleV1FalsePositive" : "RichardPillar 11/21/2021 14:57",
+		"ruleReClassNotCategorizedRuleV1FalsePositive" : "RichardPillar 10/24/2021 13:43",
+		"ruleStringConcatenationRuleV1FalsePositive" : "RichardPillar 11/21/2021 17:48",
+		"ruleClassNotReferencedRuleV1FalsePositive" : "RichardPillar 10/24/2021 13:43",
+		"ruleUtilityMethodsRuleV1FalsePositive" : "RichardPillar 12/12/2021 19:53"
+	}
+}
